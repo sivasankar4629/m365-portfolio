@@ -1,2 +1,2 @@
 # m365-portfolio
-Microsoft 365, Entra Identity &amp; Security, Migration and Enterprise Cloud Portfolio
+Microsoft 365 | Entra ID | Identity & Security | Migration | Automation
